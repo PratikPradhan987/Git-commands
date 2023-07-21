@@ -20,9 +20,18 @@ basic git commands I use
 		d. Git log --graph -oneline --all : --all will be used in remote git 
 		e. Git merge (branch name) : merges the (typed)branch to the active branch
 		f. Git branch -d (branch name) : delete a branch 
+		g. Git checkout -b (branch name): create and switch to a new branch
 	- Stash
 		a. Git stash : saves tracked modified files(cleans your history)
 		b. Git stash apply : applies latest stash to current code
-		c. Git
+	- Remote cloud Storage (Github)
+		a. Git remote -v : shows remote access list
+		b. Git push (remote name) (branch name) /Git  push origin master : add to remote branch
+		c. Git push origin (local branch name):(remote name)/Git  push origin dev:developer
+		d. Git fetch 
+		e. Git merge 
+		f. Git pull (remote name) (branch name)/Git pull origin master : fetch and merges latest changes
+		g. Git clone (remote url)
+		
 ```
-![image](https://github.com/PratikPradhan987/Git-commands/assets/71559227/f4327801-199d-414c-80c7-fab45c1edeb5)
+![image](https://github.com/PratikPradhan987/Git-commands/assets/71559227/d5c85e4f-f313-4f7e-b946-daca8c765429)
