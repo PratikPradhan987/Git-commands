@@ -1,4 +1,5 @@
 # Git-commands
+```
 basic git commands I use 
 	1. Git config -l  :   / --list
 	2. Git init
@@ -22,5 +23,6 @@ basic git commands I use
 	- Stash
 		a. Git stash : saves tracked modified files(cleans your history)
 		b. Git stash apply : applies latest stash to current code
-		c. Git 
+		c. Git
+```
 ![image](https://github.com/PratikPradhan987/Git-commands/assets/71559227/f4327801-199d-414c-80c7-fab45c1edeb5)
